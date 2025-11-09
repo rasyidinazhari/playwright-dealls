@@ -2,6 +2,9 @@
 This repository contains the automation project for navigating and testing features on the **SejutaCita Future Leaders (SFL)** page of Dealls:  
 ➡️ https://dealls.com/sfl
 
+This is the demonstration testing video for this automation script:
+- https://drive.google.com/file/d/17PX9pRuD1TDCOPhBuffKB5ljnjHSs6JZ/view?usp=sharing
+
 The project is written using **Playwright + Cucumber (BDD)** and covers:
 - Navigation menu automation  
 - Registration flow automation  
