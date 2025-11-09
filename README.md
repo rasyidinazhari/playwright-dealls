@@ -43,11 +43,11 @@ The root test directory is structured as follows:
 
 ## 📝 Gherkin Feature File  
 All Gherkin feature files are located in:  
-src/test/features/**/*.feature
+- src/test/features/**/*.feature
 
 
 The main feature file in this project is:
-src/test/features/navigationRegistration.feature
+- src/test/features/navigationRegistration.feature
 
 
 It describes:
@@ -74,22 +74,22 @@ npx cucumber-js --tags "@registration"
 ```
 
 ### 🔧 Tech Stack Used
-Playwright – browser automation
-Cucumber.js – BDD testing framework
-TypeScript – strongly-typed development
-Page Object Pattern (Components folder)
-Custom element handling (checkbox, popup, shadow DOM when needed)
+- Playwright – browser automation
+- Cucumber.js – BDD testing framework
+- TypeScript – strongly-typed development
+- Page Object Pattern (Components folder)
+- Custom element handling (checkbox, popup, shadow DOM when needed)
 
 ### 🙏 Acknowledgment
 Thank you for reviewing my test project.
 I hope this submission demonstrates strong fundamentals in:
-✅ UI automation
-✅ Handling dynamic elements
-✅ Playwright best practices
-✅ Cucumber BDD structure
-✅ Popup/tab handling
-✅ File upload automation
-✅ Locator accuracy
+- ✅ UI automation
+- ✅ Handling dynamic elements
+- ✅ Playwright best practices
+- ✅ Cucumber BDD structure
+- ✅ Popup/tab handling
+- ✅ File upload automation
+- ✅ Locator accuracy
 
 Hope I can pass the test. Have a great day! ✨
 
