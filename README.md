@@ -95,5 +95,5 @@ Hope I can pass the test. Have a great day! ✨
 
 ### 🔗 Connect with me
 
-LinkedIn: https://linkedin.com/in/rasyidinazhari
+LinkedIn: https://linkedin.com/in/rasyidinazhari | 
 GitHub: https://github.com/rasyidinazhari
