@@ -1,4 +1,4 @@
-<img width="498" height="288" alt="image" src="https://github.com/user-attachments/assets/340667b2-bbd7-495a-af45-887aa9f4ad3a" /># Dealls SFL Navigation & Registration Automation  
+# Dealls SFL Navigation & Registration Automation  
 This repository contains the automation project for navigating and testing features on the **SejutaCita Future Leaders (SFL)** page of Dealls:  
 ➡️ https://dealls.com/sfl
 
