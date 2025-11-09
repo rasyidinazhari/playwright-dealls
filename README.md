@@ -1,4 +1,4 @@
-# Dealls SFL Navigation & Registration Automation  
+<img width="498" height="288" alt="image" src="https://github.com/user-attachments/assets/340667b2-bbd7-495a-af45-887aa9f4ad3a" /># Dealls SFL Navigation & Registration Automation  
 This repository contains the automation project for navigating and testing features on the **SejutaCita Future Leaders (SFL)** page of Dealls:  
 ➡️ https://dealls.com/sfl
 
@@ -14,19 +14,19 @@ The project is written using **Playwright + Cucumber (BDD)** and covers:
 ## 📁 Project Structure
 
 The root test directory is structured as follows:
-├── src
-│ └── test
-│ ├── assets
-│ │ ├── 1760643117095.png
-│ │ └── lai.jpeg
-│ ├── components
-│ │ └── navigationComponent.ts
-│ ├── features
-│ │ └── navigationRegistration.feature
-│ ├── hooks
-│ │ └── hooks.ts
-│ └── steps
-│ └── navigationRegistration.Steps.ts
+- ├── src
+- │ └── test
+- │ ├── assets
+- │ │ ├── 1760643117095.png
+- │ │ └── lai.jpeg
+- │ ├── components
+- │ │ └── navigationComponent.ts
+- │ ├── features
+- │ │ └── navigationRegistration.feature
+- │ ├── hooks
+- │ │ └── hooks.ts
+- │ └── steps
+- │ └── navigationRegistration.Steps.ts
 
 
 ### 📌 Description by folder:
